@@ -1,0 +1,62 @@
+h1{
+    background-color: rgb(205, 207, 208);
+    color: black;
+     height: px;
+     width: 498px;
+      /* text-align:center; */
+margin:40px;
+padding:-4px;
+font-size: xx-large;
+font-style: italic;
+
+}
+.home
+{
+    padding: 10px;font-size: large;margin: 5px;
+    position: relative;
+    right: -25px;
+    top: -21px;
+
+}
+.about{
+    padding: 5px;font-size: large;
+    position: relative;
+    right: -25px;
+    top: -21px;
+}
+
+#PIC {
+    height: 143px;
+    width: 200px;
+    position: relative;
+    right: -572px;
+    top: -126px
+}
+#pic{
+    position: relative;
+    right: -45px;
+    top: -87px;
+    width: 699px;
+    height: 310px;
+}
+ #copyr {
+    position: relative;
+    right: -89px;
+    top: 17px;
+ }
+
+ a{ padding: 10px;font-size: large;margin: 5px;
+    position: relative;
+    right: -25px;
+    top: -21px;
+}
+
+#mainp{
+    height: 143px;
+    width: 200px;
+    position: relative;
+    right: -572px;
+    top: -126px
+}
+
+
