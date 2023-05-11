@@ -27,4 +27,4 @@
 -( phyllo dough or puff pastry, milk and nuts)
 
 [press here to know more about dishes](https://www.tasteofhome.com/collection/hotdish-recipes/)  
-   [this is a wireframe images](https://drive.google.com/drive/folders/17pf0ASw7OjsRFaJ0k7RrD97OM-nyM_U6?usp=share_link)
+   [this is a wireframe images](https://drive.google.com/drive/folders/1dfbzXIp_XheZfRXuHrxjCZNVeL_2wDkU?usp=share_link)
