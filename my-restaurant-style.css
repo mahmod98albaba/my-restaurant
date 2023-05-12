@@ -1,9 +1,17 @@
+#home{
+    background-color: rgb(93, 95, 95);
+}
+
+
+
+
+
 h1{
-    background-color: rgb(205, 207, 208);
-    color: black;
-     height: px;
-     width: 498px;
-      /* text-align:center; */
+background-color: rgb(152, 155, 156);
+color: black;
+ height: px;
+ width: 498px;
+  /* text-align:center; */
 margin:40px;
 padding:-4px;
 font-size: xx-large;
@@ -12,51 +20,71 @@ font-style: italic;
 }
 .home
 {
-    padding: 10px;font-size: large;margin: 5px;
-    position: relative;
-    right: -25px;
-    top: -21px;
+padding: 10px;font-size: large;margin: 5px;
+position: relative;
+right: -25px;
+top: -19px;
 
 }
 .about{
-    padding: 5px;font-size: large;
-    position: relative;
-    right: -25px;
-    top: -21px;
+padding: 5px;font-size: large;
+position: relative;
+right: -25px;
+top: -21px;
 }
 
 #PIC {
-    height: 143px;
+
+    border-radius: 50%;
     width: 200px;
     position: relative;
-    right: -572px;
-    top: -126px
+    right: -600px;
+    top: -114px;
 }
 #pic{
-    position: relative;
-    right: -45px;
-    top: -87px;
-    width: 699px;
-    height: 310px;
+position: relative;
+right: -1px;
+top: -87px;
+width: 1329px;
+height: 400px;
 }
- #copyr {
-    position: relative;
-    right: -89px;
-    top: 17px;
- }
+#copyr {
+position: relative;
+right: -120px;
+top: 5px;
+}
 
- a{ padding: 10px;font-size: large;margin: 5px;
-    position: relative;
-    right: -25px;
-    top: -21px;
+a{ padding: 10px;font-size: large;margin: 5px;
+position: relative;
+right: -25px;
+top: -21px;
 }
 
 #mainp{
-    height: 143px;
-    width: 200px;
-    position: relative;
-    right: -572px;
-    top: -126px
+height: 143px;
+width: 200px;
+position: relative;
+right: -572px;
+top: -126px
 }
 
 
+
+#fot {
+    position: relative;
+    right: -120px;
+    top: 5px;
+}
+#ho{
+    padding: -3px;
+    font-size: large;
+    margin: 4px;
+    position: relative;
+    right: -25px;
+    top: -19px;
+}
+#copa{position: relative;
+    right: -120px;
+    top: 5px;
+
+}
