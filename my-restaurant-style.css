@@ -1,5 +1,6 @@
 #home{
     background-color: rgb(93, 95, 95);
+    color: aliceblue;
 }
 
 
@@ -61,11 +62,11 @@ top: -21px;
 }
 
 #mainp{
-height: 143px;
-width: 200px;
-position: relative;
-right: -572px;
-top: -126px
+    border-radius: 50%;
+    width: 200px;
+    position: relative;
+    right: -600px;
+    top: -114px;
 }
 
 
@@ -87,4 +88,48 @@ top: -126px
     right: -120px;
     top: 5px;
 
+}
+#about{background-color: rgb(93, 95, 95);
+    
+}
+
+#photomy{
+    position: relative;
+    top: -25px;
+    right: -69px;
+}
+#myp{
+    background-color: #e2eded;
+    width: 146px;
+    height: 30px;
+}
+#pasta{
+    position: relative;
+    top: -16px;
+    right: -11px;
+    width: 200px;
+    
+}
+#hot{ position: relative;
+    top: 4px;
+    right: 3px;
+    width: 200px;
+    
+}
+#pizza{position: relative;
+    top: 4px;
+    right: 3px;
+    width: 200px;
+
+}
+.m{
+    background-color: darkgray;
+}
+#mb{background-color: whitesmoke;
+width: 350px;
+}
+#res{
+    width: 700px;
+    position: relative;
+    right: -37px;
 }
