@@ -1,0 +1,135 @@
+#home{
+    background-color: rgb(93, 95, 95);
+    color: aliceblue;
+}
+
+
+
+
+
+h1{
+background-color: rgb(152, 155, 156);
+color: black;
+ height: px;
+ width: 498px;
+  /* text-align:center; */
+margin:40px;
+padding:-4px;
+font-size: xx-large;
+font-style: italic;
+
+}
+.home
+{
+padding: 10px;font-size: large;margin: 5px;
+position: relative;
+right: -25px;
+top: -19px;
+
+}
+.about{
+padding: 5px;font-size: large;
+position: relative;
+right: -25px;
+top: -21px;
+}
+
+#PIC {
+
+    border-radius: 50%;
+    width: 200px;
+    position: relative;
+    right: -600px;
+    top: -114px;
+}
+#pic{
+position: relative;
+right: -1px;
+top: -87px;
+width: 1329px;
+height: 400px;
+}
+#copyr {
+position: relative;
+right: -120px;
+top: 5px;
+}
+
+a{ padding: 10px;font-size: large;margin: 5px;
+position: relative;
+right: -25px;
+top: -21px;
+}
+
+#mainp{
+    border-radius: 50%;
+    width: 200px;
+    position: relative;
+    right: -600px;
+    top: -114px;
+}
+
+
+
+#fot {
+    position: relative;
+    right: -120px;
+    top: 5px;
+}
+#ho{
+    padding: -3px;
+    font-size: large;
+    margin: 4px;
+    position: relative;
+    right: -25px;
+    top: -19px;
+}
+#copa{position: relative;
+    right: -120px;
+    top: 5px;
+
+}
+#about{background-color: rgb(93, 95, 95);
+    
+}
+
+#photomy{
+    position: relative;
+    top: -25px;
+    right: -69px;
+}
+#myp{
+    background-color: #e2eded;
+    width: 146px;
+    height: 30px;
+}
+#pasta{
+    position: relative;
+    top: -16px;
+    right: -11px;
+    width: 200px;
+    
+}
+#hot{ position: relative;
+    top: 4px;
+    right: 3px;
+    width: 200px;
+    
+}
+#pizza{position: relative;
+    top: 4px;
+    right: 3px;
+    width: 200px;
+
+}
+.m{
+    background-color: darkgray;
+}
+#mb{background-color: whitesmoke;
+width: 350px;
+}
+#res{
+    width: 700px;
+    position: relative;
+    right: -37px;
+}
